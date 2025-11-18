@@ -1,0 +1,22 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": ["hi", "hello", "hey", "what’s up"],
+      "responses": ["Hello Darling 💝!", "Hey there 😍", "Hi sweetie 💫"]
+    },
+    {
+      "tag": "cloud",
+      "patterns": ["what is cloud computing", "explain cloud", "define cloud"],
+      "responses": [
+        "Cloud computing is delivering services like storage and AI through the internet ☁️",
+        "It means using remote servers for data storage and processing 💻☁️"
+      ]
+    },
+    {
+      "tag": "bye",
+      "patterns": ["bye", "goodbye"],
+      "responses": ["See you soon Darling 💝", "Bye bye 😚"]
+    }
+  ]
+}

@@ -1,0 +1,281 @@
+
+============================================================
+Input: latest news about AI
+Session: default
+Web search needed: True
+Web search available: True
+Attempting web search...
+Web search result: None
+
+============================================================
+Input: Write a Python function to sort a list
+Session: ade6d2f8b13cfc56893df8e4aa24eab8
+Web search needed: False
+Web search available: True
+
+============================================================
+Input: What are the benefits of cloud computing?
+Session: 3334e496fbd2fba8441e46a22413c259
+Web search needed: True
+Web search available: True
+Attempting web search...
+Starting DuckDuckGo search for: What are the benefits of cloud computing?
+Web search result: None
+
+============================================================
+Input: satalaite image processing
+Session: 5d677793d1f377098f815929d87b6550
+Web search needed: False
+Web search available: True
+
+============================================================
+Input: explain cns
+Session: d6e1e690d04de4462543802d8e760039
+Web search needed: False
+Web search available: True
+
+============================================================
+Input: seminar on gis and remote sensing
+Session: d6e1e690d04de4462543802d8e760039
+Web search needed: False
+Web search available: True
+
+============================================================
+Input: define cns and clustering
+Session: aa39a3086bf8a1d0030adadc6efa095c
+Web search needed: False
+Web search available: True
+
+============================================================
+Input: explain gsi
+Session: aa39a3086bf8a1d0030adadc6efa095c
+Web search needed: False
+Web search available: True
+
+============================================================
+Input: explain mern stack
+Session: 3beea835e9d6484f937d24c6cdc139b1
+Web search needed: False
+Web search available: True
+
+============================================================
+Input: explain cns
+Session: 3beea835e9d6484f937d24c6cdc139b1
+Web search needed: False
+Web search available: True
+
+============================================================
+Input: explain cns
+Session: 4ff50213e060767e9247c67d9063ce25
+Web search needed: False
+Web search available: True
+
+============================================================
+Input: expalin cns
+Session: bb3186d43efe31ad6b06e6948dd736e3
+Web search needed: False
+Web search available: True
+
+============================================================
+Input: explain gis
+Session: bb3186d43efe31ad6b06e6948dd736e3
+Web search needed: False
+Web search available: True
+
+============================================================
+Input: explain Computer network
+Session: bb3186d43efe31ad6b06e6948dd736e3
+Web search needed: False
+Web search available: True
+
+============================================================
+Input: can u call me lakshuu
+Session: bb3186d43efe31ad6b06e6948dd736e3
+Web search needed: False
+Web search available: True
+
+============================================================
+Input: HI
+Session: c0e3c93d4c001e978dd132e1d74354de
+Web search needed: False
+Web search available: True
+
+============================================================
+Input: EXPALIN API
+Session: c0e3c93d4c001e978dd132e1d74354de
+Web search needed: False
+Web search available: True
+
+============================================================
+Input: Hii
+Session: 83d0585e7c624fbe4212796d4f27469e
+Web search needed: False
+Web search available: False
+
+============================================================
+Input: Okay
+Session: 83d0585e7c624fbe4212796d4f27469e
+Web search needed: False
+Web search available: False
+
+============================================================
+Input: What you are learning
+Session: 83d0585e7c624fbe4212796d4f27469e
+Web search needed: False
+Web search available: False
+
+============================================================
+Input: Write a Python function to sort a list
+Session: e282588ef969e47c6309fd51e2fd0505
+Web search needed: False
+Web search available: False
+
+============================================================
+Input: yes
+Session: e282588ef969e47c6309fd51e2fd0505
+Web search needed: False
+Web search available: False
+
+============================================================
+Input: Explain quantum computing in simple terms
+Session: 798bc56b370caaf16e1ef65b6781dacf
+Web search needed: False
+Web search available: False
+
+============================================================
+Input: Okay, I think you are  good at answering my questions
+Session: 798bc56b370caaf16e1ef65b6781dacf
+Web search needed: False
+Web search available: False
+
+============================================================
+Input: Hello
+Session: 798bc56b370caaf16e1ef65b6781dacf
+Web search needed: False
+Web search available: False
+
+============================================================
+Input: What is Biology
+Session: 798bc56b370caaf16e1ef65b6781dacf
+Web search needed: True
+Web search available: False
+
+============================================================
+Input: What is Cloud computi
+Session: 798bc56b370caaf16e1ef65b6781dacf
+Web search needed: True
+Web search available: False
+
+============================================================
+Input: What is cloud computing? Explain its main characteristics
+Session: 798bc56b370caaf16e1ef65b6781dacf
+Web search needed: True
+Web search available: False
+
+============================================================
+Input: Hey
+Session: 798bc56b370caaf16e1ef65b6781dacf
+Web search needed: False
+Web search available: False
+
+============================================================
+Input: What is cloud computing? Explain its main characteristics
+Session: 798bc56b370caaf16e1ef65b6781dacf
+Web search needed: True
+Web search available: False
+
+============================================================
+Input: What is cloud computing? Explain its main characteristics
+Session: 798bc56b370caaf16e1ef65b6781dacf
+Web search needed: True
+Web search available: False
+
+============================================================
+Input: What are the different types of cloud service models (IaaS, PaaS, SaaS)?
+Session: 798bc56b370caaf16e1ef65b6781dacf
+Web search needed: True
+Web search available: False
+
+============================================================
+Input: What is cloud computing? Explain its main characteristics.
+Session: 798bc56b370caaf16e1ef65b6781dacf
+Web search needed: True
+Web search available: False
+
+============================================================
+Input: What are the different types of cloud service models (IaaS, PaaS, SaaS)?
+Session: 798bc56b370caaf16e1ef65b6781dacf
+Web search needed: True
+Web search available: False
+
+============================================================
+Input: What is auto-scaling in the cloud?
+Session: 798bc56b370caaf16e1ef65b6781dacf
+Web search needed: True
+Web search available: False
+
+============================================================
+Input: What is elasticity vs scalability?
+Session: 798bc56b370caaf16e1ef65b6781dacf
+Web search needed: True
+Web search available: False
+
+============================================================
+Input: What is elasticity vs scalability?
+Session: 798bc56b370caaf16e1ef65b6781dacf
+Web search needed: True
+Web search available: False
+
+============================================================
+Input: What is elasticity vs scalability?
+Session: 798bc56b370caaf16e1ef65b6781dacf
+Web search needed: True
+Web search available: False
+
+============================================================
+Input: What is cloud computing? Explain its main characteristics
+Session: 798bc56b370caaf16e1ef65b6781dacf
+Web search needed: True
+Web search available: False
+
+============================================================
+Input: What are the advantages of cloud computing?
+Session: 798bc56b370caaf16e1ef65b6781dacf
+Web search needed: True
+Web search available: False
+
+============================================================
+Input: heyyy
+Session: 73c12068eb6d3718c8b7f594bba53c9f
+Web search needed: False
+Web search available: False
+
+============================================================
+Input: What is cloud computing? Explain its main characteristics.
+Session: 73c12068eb6d3718c8b7f594bba53c9f
+Web search needed: True
+Web search available: False
+
+============================================================
+Input: What is cloud computing? Explain its main characteristics.
+Session: a255bed6f7623fa6a41a1a52d0481ac4
+Web search needed: True
+Web search available: False
+
+============================================================
+Input: What are the different types of cloud service models (IaaS, PaaS, SaaS)?
+Session: a255bed6f7623fa6a41a1a52d0481ac4
+Web search needed: True
+Web search available: False
+
+============================================================
+Input: What is virtualization? How is it used in cloud computing?
+Session: a255bed6f7623fa6a41a1a52d0481ac4
+Web search needed: True
+Web search available: False
+
+============================================================
+Input: What is elasticity vs scalability?
+Session: a255bed6f7623fa6a41a1a52d0481ac4
+Web search needed: True
+Web search available: False

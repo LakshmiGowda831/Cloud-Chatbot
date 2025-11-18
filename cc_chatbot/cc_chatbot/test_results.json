@@ -1,0 +1,212 @@
+{
+  "total": 18,
+  "passed": 18,
+  "failed": 0,
+  "errors": 0,
+  "details": [
+    {
+      "test": 1,
+      "category": "Technology",
+      "status": "PASSED",
+      "message": "What is cloud computing?",
+      "response": "Cloudy \u2601\ufe0f: Cloud computing delivers computing services (servers, storage, databases, networking, software) over the internet. Benefits include: scalability, cost savings, flexibility, automatic updates, and global access. Major providers are AWS, Azure, and Google Cloud! \u2601\ufe0f",
+      "keywords_found": [
+        "cloud",
+        "computing",
+        "server",
+        "internet",
+        "data"
+      ]
+    },
+    {
+      "test": 2,
+      "category": "Technology",
+      "status": "PASSED",
+      "message": "Explain artificial intelligence in simple terms",
+      "response": "Cloudy \u2601\ufe0f: Artificial Intelligence (AI) is technology that enables computers to learn and make decisions like humans. It includes machine learning (learning from data), neural networks (brain-inspired computing), and deep learning. AI powers things like voice assistants, recommendations, and self-driving cars! \ud83e\udd16",
+      "keywords_found": [
+        "AI",
+        "artificial",
+        "intelligence",
+        "machine",
+        "learn"
+      ]
+    },
+    {
+      "test": 3,
+      "category": "Technology",
+      "status": "PASSED",
+      "message": "What are the benefits of using Python?",
+      "response": "Cloudy \u2601\ufe0f: Python is great for beginners and experts! It's easy to read, has tons of libraries, works for web development, data science, AI, and automation. Plus, it has a huge community for support! \ud83d\udc0d",
+      "keywords_found": [
+        "Python",
+        "easy"
+      ]
+    },
+    {
+      "test": 4,
+      "category": "Science",
+      "status": "PASSED",
+      "message": "How does photosynthesis work?",
+      "response": "Cloudy \u2601\ufe0f: Photosynthesis is how plants make food! They use sunlight, water, and carbon dioxide to create glucose (sugar) and oxygen. The chlorophyll in leaves captures sunlight energy. Formula: 6CO\u2082 + 6H\u2082O + light \u2192 C\u2086H\u2081\u2082O\u2086 + 6O\u2082 \ud83c\udf31",
+      "keywords_found": [
+        "photosynthesis",
+        "plant",
+        "light",
+        "energy",
+        "oxygen"
+      ]
+    },
+    {
+      "test": 5,
+      "category": "Science",
+      "status": "PASSED",
+      "message": "What is quantum computing?",
+      "response": "Cloudy \u2601\ufe0f: Quantum computing uses quantum mechanics to process information. Unlike regular computers that use bits (0 or 1), quantum computers use qubits that can be both 0 and 1 simultaneously (superposition). This makes them incredibly powerful for certain complex problems! \u269b\ufe0f",
+      "keywords_found": [
+        "quantum",
+        "computing",
+        "qubit",
+        "superposition"
+      ]
+    },
+    {
+      "test": 6,
+      "category": "Mathematics",
+      "status": "PASSED",
+      "message": "What is the Pythagorean theorem?",
+      "response": "Cloudy \u2601\ufe0f: The Pythagorean theorem states that in a right triangle: a\u00b2 + b\u00b2 = c\u00b2, where c is the hypotenuse (longest side) and a, b are the other two sides. Example: if a=3 and b=4, then c=5 because 3\u00b2+4\u00b2=9+16=25=5\u00b2 \ud83d\udcd0",
+      "keywords_found": [
+        "Pythagorean",
+        "theorem",
+        "triangle"
+      ]
+    },
+    {
+      "test": 7,
+      "category": "Mathematics",
+      "status": "PASSED_NO_KEYWORDS",
+      "message": "Explain calculus basics",
+      "response": "Cloudy \u2601\ufe0f: Artificial Intelligence (AI) is technology that enables computers to learn and make decisions like humans. It includes machine learning (learning from data), neural networks (brain-inspired computing), and deep learning. AI powers things like voice assistants, recommendations, and self-driving cars! \ud83e\udd16"
+    },
+    {
+      "test": 8,
+      "category": "Business",
+      "status": "PASSED",
+      "message": "What is digital marketing?",
+      "response": "Cloudy \u2601\ufe0f: Digital marketing promotes products/services using digital channels like social media, search engines, email, and websites. It includes SEO, content marketing, social media ads, email campaigns, and analytics. It's cost-effective and measurable! \ud83d\udcf1",
+      "keywords_found": [
+        "digital",
+        "marketing",
+        "social",
+        "media"
+      ]
+    },
+    {
+      "test": 9,
+      "category": "Business",
+      "status": "PASSED_NO_KEYWORDS",
+      "message": "Explain the concept of supply chain management",
+      "response": "Cloudy \u2601\ufe0f: Artificial Intelligence (AI) is technology that enables computers to learn and make decisions like humans. It includes machine learning (learning from data), neural networks (brain-inspired computing), and deep learning. AI powers things like voice assistants, recommendations, and self-driving cars! \ud83e\udd16"
+    },
+    {
+      "test": 10,
+      "category": "General",
+      "status": "PASSED",
+      "message": "What is the capital of France?",
+      "response": "Cloudy \u2601\ufe0f: The capital of France is Paris! \ud83c\uddeb\ud83c\uddf7 It's known as the 'City of Light' and is famous for the Eiffel Tower, Louvre Museum, and delicious croissants!",
+      "keywords_found": [
+        "Paris",
+        "France",
+        "capital"
+      ]
+    },
+    {
+      "test": 11,
+      "category": "General",
+      "status": "PASSED",
+      "message": "Who invented the telephone?",
+      "response": "Cloudy \u2601\ufe0f: Alexander Graham Bell is credited with inventing the telephone in 1876. However, there's debate as Antonio Meucci developed a similar device earlier. Bell was first to patent it! \ud83d\udcde",
+      "keywords_found": [
+        "Bell",
+        "telephone",
+        "Alexander"
+      ]
+    },
+    {
+      "test": 12,
+      "category": "Programming",
+      "status": "PASSED",
+      "message": "Write a Python function to reverse a string",
+      "response": "Cloudy \u2601\ufe0f: Here's a simple Python example:\n\n```python\n# Reverse a string\ndef reverse_string(text):\n    return text[::-1]\n\n# Sort a list\ndef sort_list(items):\n    return sorted(items)\n```\n\nWould you like me to explain how these work?",
+      "keywords_found": [
+        "Python",
+        "reverse",
+        "string"
+      ]
+    },
+    {
+      "test": 13,
+      "category": "Programming",
+      "status": "PASSED",
+      "message": "What is object-oriented programming?",
+      "response": "Cloudy \u2601\ufe0f: Python is a versatile programming language! What specific aspect would you like to know about - syntax, libraries, or use cases?",
+      "keywords_found": [
+        "programming"
+      ]
+    },
+    {
+      "test": 14,
+      "category": "Personal",
+      "status": "PASSED",
+      "message": "Hello! How are you?",
+      "response": "Cloudy \u2601\ufe0f: Hello! I'm Cloudy, your friendly cloud chatbot! How can I help you today?",
+      "keywords_found": [
+        "hello",
+        "cloudy"
+      ]
+    },
+    {
+      "test": 15,
+      "category": "Personal",
+      "status": "PASSED",
+      "message": "My name is Alex",
+      "response": "Cloudy \u2601\ufe0f: Nice to meet you, Alex! I'll remember your name. How can I help you today?",
+      "keywords_found": [
+        "Alex",
+        "name",
+        "meet",
+        "nice"
+      ]
+    },
+    {
+      "test": 16,
+      "category": "Personal",
+      "status": "PASSED_NO_KEYWORDS",
+      "message": "What's my name?",
+      "response": "Cloudy \u2601\ufe0f: That's a great question! I'm still learning, but I'd love to help. Could you tell me more about what you're looking for?"
+    },
+    {
+      "test": 17,
+      "category": "Health",
+      "status": "PASSED",
+      "message": "What are the benefits of exercise?",
+      "response": "Cloudy \u2601\ufe0f: Exercise benefits include: stronger heart and muscles, better mood (endorphins!), weight management, improved sleep, reduced disease risk, more energy, and better brain function. Aim for 30 minutes daily! \ud83d\udcaa",
+      "keywords_found": [
+        "exercise",
+        "benefit"
+      ]
+    },
+    {
+      "test": 18,
+      "category": "Education",
+      "status": "PASSED",
+      "message": "How can I improve my study habits?",
+      "response": "Cloudy \u2601\ufe0f: Great study habits: 1) Set specific goals, 2) Create a schedule, 3) Use active recall (test yourself), 4) Take breaks (Pomodoro technique), 5) Teach others, 6) Stay organized, 7) Get enough sleep. Consistency is key! \ud83d\udcda",
+      "keywords_found": [
+        "study",
+        "habit"
+      ]
+    }
+  ]
+}
